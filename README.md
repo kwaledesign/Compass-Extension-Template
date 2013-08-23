@@ -1,7 +1,7 @@
 Compass Extension Template
 ==========================
 
-Whenever I'm creating a [Compass extension](http://compass-style.org/help/tutorials/extensions/), I find that I always use the same basic template for creating extensions, and that the project that Compass comes with isn't quite complete enough to get me where I need to be. With that in mind, I've created this little project to get you on your way. Here's a little template that I've put together to kickstart Compass extension development. Wherever it says "Extension" in the template files/file names, replace it with *your* extension's name. All files are self documented; please read the documentation there.
+Starter kit for [Compass extension](http://compass-style.org/help/tutorials/extensions/) development based off [Snugug's](http://twitter.com/snugug) [original project](https://github.com/Team-Sass/Compass-Extension-Template). Wherever it says "Extension" in the template files/file names, replace it with *your* extension's name. All files are self documented; please read the documentation there.
 
 ## lib/extension.rb
 
@@ -41,14 +41,6 @@ If you're not logged in to Ruby Gems, it will ask you to log in, then it will pu
 
 <hr>
 
-# AND YOU'RE DONE.
-
-<hr>
-
-## Special Thanks
-Super special thanks goes out to [Nathan Weizenbaum](https://github.com/nex3/) for Sass, [Chris Eppstein](https://github.com/chriseppstein/) for Compass, and [Mason Wendell](https://github.com/canarymason/) and [Scott Kellum](https://github.com/scottkellum/), my Compass extension partners in crime. Much of what's presented here is an amalgamation of what Chris, Mason, and Scott have taught me, so double thanks to them.
-
 ## License
-[Creative Commons Attribution 3.0](http://creativecommons.org/licenses/by/3.0). Go wild.
+[Creative Commons Attribution 3.0](http://creativecommons.org/licenses/by/3.0).
 
-If you're able to link me to your extension so I can see what you've built, that'd be awesome!
